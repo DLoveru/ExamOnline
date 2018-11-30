@@ -11,6 +11,7 @@ import entity.ScoreInfo;
 
 @Repository
 public interface ExamGradeDao {
+  //exam
 	public List<PaperInfo> seacherPaperState();
 	public List<ScoreInfo> seacherScore(int id);
 	public List<ClassInfo> seacherScoreClass(int id);
