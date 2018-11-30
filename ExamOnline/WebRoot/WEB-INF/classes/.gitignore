@@ -1,0 +1,13 @@
+/MyBatis-configuration.xml
+/applicationContext.xml
+/biz
+/controller
+/dao
+/entity
+/examKuangJia.sql
+/intercepter
+/junit
+/log4j.properties
+/log4jweb.properties
+/mysqldb.properties
+/util
